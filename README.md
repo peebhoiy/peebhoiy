@@ -28,20 +28,35 @@ I'm interested in clean code, thoughtful architecture, reliable systems, and bui
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=fff)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
 
 ### Infrastructure & Tooling
 
+![Microsoft Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Dockhand](https://img.shields.io/badge/DOCKHAND-1D4ED8?style=for-the-badge&logo=docker&logoColor=fff)
+![Traefik](https://img.shields.io/badge/TRAEFIK-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=fff)
+![Caddy](https://img.shields.io/badge/CADDY-1F88C9?style=for-the-badge&logo=caddy&logoColor=fff)
+![Apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=fff)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+
+
+### Enterprise Platforms & Business Applications
+
+![Odoo ERP](https://img.shields.io/badge/ODOO_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=fff)
+![Microsoft Dynamics 365](https://img.shields.io/badge/DYNAMICS_365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=fff)
+![Moodle LMS](https://img.shields.io/badge/MOODLE_LMS-F98012?style=for-the-badge&logo=moodle&logoColor=fff)
 
 ---
 
