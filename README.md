@@ -1,4 +1,4 @@
-![Software Engineer | Open Source Enthusiast | Architecture & Deployment](assets/profile-banner.png)
+![Software Engineer | Open Source Enthusiast | Software Architecture & Deployment Specialist](assets/profile-banner.png)
 # Hey, I'm Pius 👋
 
 I build software that solves real-world problems — from web applications and backend services to database-driven systems and scalable infrastructure.
